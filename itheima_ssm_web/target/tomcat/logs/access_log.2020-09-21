@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [21/Sep/2020:10:59:25 +0800] "GET /itheima_ssm_web HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [21/Sep/2020:10:59:26 +0800] "GET /itheima_ssm_web/ HTTP/1.1" 302 - http-bio-8080-exec-3 240
+0:0:0:0:0:0:0:1 - - [21/Sep/2020:10:59:28 +0800] "GET /itheima_ssm_web/login.jsp HTTP/1.1" 200 2654 http-bio-8080-exec-4 2178
+0:0:0:0:0:0:0:1 - - [21/Sep/2020:10:59:32 +0800] "GET /itheima_ssm_web/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31000 http-bio-8080-exec-6 3725
+0:0:0:0:0:0:0:1 - - [21/Sep/2020:10:59:32 +0800] "GET /itheima_ssm_web/plugins/ionicons/css/ionicons.min.css HTTP/1.1" 200 51284 http-bio-8080-exec-7 3754
+0:0:0:0:0:0:0:1 - - [21/Sep/2020:10:59:32 +0800] "GET /itheima_ssm_web/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 121237 http-bio-8080-exec-5 3779
+0:0:0:0:0:0:0:1 - - [21/Sep/2020:10:59:32 +0800] "GET /itheima_ssm_web/plugins/iCheck/square/blue.css HTTP/1.1" 200 1611 http-bio-8080-exec-8 24
+0:0:0:0:0:0:0:1 - - [21/Sep/2020:10:59:32 +0800] "GET /itheima_ssm_web/plugins/jQuery/jquery-2.2.3.min.js HTTP/1.1" 200 85659 http-bio-8080-exec-10 229
+0:0:0:0:0:0:0:1 - - [21/Sep/2020:10:59:32 +0800] "GET /itheima_ssm_web/plugins/adminLTE/css/AdminLTE.css HTTP/1.1" 200 110374 http-bio-8080-exec-9 255
+0:0:0:0:0:0:0:1 - - [21/Sep/2020:10:59:32 +0800] "GET /itheima_ssm_web/plugins/iCheck/icheck.min.js HTTP/1.1" 200 4516 http-bio-8080-exec-10 68
+0:0:0:0:0:0:0:1 - - [21/Sep/2020:10:59:32 +0800] "GET /itheima_ssm_web/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 37045 http-bio-8080-exec-8 110
+0:0:0:0:0:0:0:1 - - [21/Sep/2020:10:59:32 +0800] "GET /itheima_ssm_web/plugins/iCheck/square/blue.png HTTP/1.1" 200 2185 http-bio-8080-exec-10 4
+0:0:0:0:0:0:0:1 - - [21/Sep/2020:10:59:33 +0800] "GET /itheima_ssm_web/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028 http-bio-8080-exec-10 56
+0:0:0:0:0:0:0:1 - - [21/Sep/2020:10:59:33 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-10 0
